@@ -7,7 +7,7 @@ def usuario():
         print(numeros)
     print("Estos son sus numeros ", numeros)
 
-    
+
 usuario()
 
 
